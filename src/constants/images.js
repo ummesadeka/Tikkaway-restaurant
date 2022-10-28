@@ -9,9 +9,9 @@
 // import logo from '../assets/logo.png';
 // import menu from '../assets/menu.png';
 // import overlaybg from '../assets/overlaybg.png';
-// import spoon from '../assets/spoon.svg';
-// import welcome from '../assets/welcome.png';
-// // import findus from '../assets/findus.png';
+import spoon from '../assets/spoon.svg';
+import welcome from '../assets/welcome.png';
+// import findus from '../assets/findus.png';
 // import laurels from '../assets/laurels.png';
 // import award01 from '../assets/award01.png';
 // import award02 from '../assets/award02.png';
@@ -23,7 +23,7 @@ import gericht from '../assets/gericht.png';
 
 export default {
   //   bg,
-  //   // chef,
+  // chef,
   //   G,
   //   gallery01,
   //   gallery02,
@@ -33,8 +33,8 @@ export default {
   //   logo,
   //   menu,
   //   overlaybg,
-  //   spoon,
-  //   welcome,
+  spoon,
+  welcome,
   //   findus,
   //   laurels,
   //   award01,
