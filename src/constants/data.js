@@ -1,5 +1,5 @@
 import images from './images';
-
+/* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
 const wines = [
   {
     title: 'Chapel Hill Shiraz',
